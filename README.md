@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on getting more knowledgable about programming/coding in C#/Python/PowerShell
+- 🌱 I’m currently learning a lot of things, and hopefully retaining it as well.
 <!--
 **GBruens/GBruens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
